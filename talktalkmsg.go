@@ -1,4 +1,4 @@
-package navertalktalk
+package naverttmsg
 
 /*
 https://github.com/navertalk/chatbot-api 참고.
